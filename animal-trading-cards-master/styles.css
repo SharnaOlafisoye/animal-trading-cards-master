@@ -10,7 +10,7 @@ html {
     width: 300px;
     padding: 10px;
     border: 5px  solid green; 
-    box-shadow: 5px 5px rgb (220, 220, 220);
+   
     background-color: gray;
   }
   
@@ -28,7 +28,7 @@ html {
   
   .animal-facts {
        margin: 10px;
-       padding: 20 px;
+       padding: 20px;
        border: 1px solid #cccccc; 
   }
   .trivia{
